@@ -1,0 +1,15 @@
+{
+  "name": "creat-account-inst",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "leite": "^0.2.0",
+    "puppeteer": "^15.5.0",
+    "zyte-smartproxy-puppeteer": "^1.0.13"
+  }
+}
